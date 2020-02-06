@@ -1,13 +1,15 @@
 # Hammad Ausafi - GuMz Productions
 
-## Hi guys
+## Hi guys, visit my [youtube channel](https://www.youtube.com/channel/UCOMuCN-zoaEAmKq01gZRarA)
 
-### Hello
+## Comment, like, and subscribe!!!
 
-#### Howdy
+```python
+from General-AK import awesome
 
-###### Hehee
 
-####### Guys visit [my youtube channel](https://www.youtube.com/channel/UCOMuCN-zoaEAmKq01gZRarA)
-
-####### Comment, like, and subscribe!!!
+def GuMz_City():
+    if not [youtube channel](https://www.youtube.com/channel/UCOMuCN-zoaEAmKq01gZRarA):
+        [youtube channel](https://www.youtube.com/channel/UCOMuCN-zoaEAmKq01gZRarA).click()
+    GuMz_City()
+```
