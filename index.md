@@ -1,4 +1,6 @@
-# Hammad Ausafi - GuMz Productions
+# DELETED UNTIL I CAN PAY MY EDITOR.
+
+~# Hammad Ausafi - GuMz Productions~
 
 ## Hi guys, visit my [youtube channel](https://www.zomato.com/london/mammas-pizza-norbury)
 
