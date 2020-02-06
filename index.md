@@ -1,6 +1,6 @@
 # DELETED UNTIL I CAN PAY MY EDITOR.
 
-~# Hammad Ausafi - GuMz Productions~
+~# Hammad Ausafi - GuMz Productions
 
 ## Hi guys, visit my [youtube channel](https://www.zomato.com/london/mammas-pizza-norbury)
 
@@ -15,3 +15,4 @@ def GuMz_City():
         [youtube channel](https://www.youtube.com/channel/UCOMuCN-zoaEAmKq01gZRarA).click()
     GuMz_City()
 ```
+~
