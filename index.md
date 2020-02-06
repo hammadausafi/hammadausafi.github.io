@@ -1,6 +1,6 @@
 # Hammad Ausafi - GuMz Productions
 
-## Hi guys, visit my [youtube channel](https://www.youtube.com/channel/UCOMuCN-zoaEAmKq01gZRarA)
+## Hi guys, visit my [youtube channel](https://www.zomato.com/london/mammas-pizza-norbury)
 
 ## Comment, like, and subscribe!!!
 
